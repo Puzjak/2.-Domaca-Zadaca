@@ -1,0 +1,6 @@
+C:\Users\mp49290\Documents\Visual Studio 2015\Projects\DZ2\Zad3\bin\Debug\Zad3.exe.config
+C:\Users\mp49290\Documents\Visual Studio 2015\Projects\DZ2\Zad3\bin\Debug\Zad3.exe
+C:\Users\mp49290\Documents\Visual Studio 2015\Projects\DZ2\Zad3\bin\Debug\Zad3.pdb
+C:\Users\mp49290\Documents\Visual Studio 2015\Projects\DZ2\Zad3\obj\Debug\Zad3.csprojResolveAssemblyReference.cache
+C:\Users\mp49290\Documents\Visual Studio 2015\Projects\DZ2\Zad3\obj\Debug\Zad3.exe
+C:\Users\mp49290\Documents\Visual Studio 2015\Projects\DZ2\Zad3\obj\Debug\Zad3.pdb

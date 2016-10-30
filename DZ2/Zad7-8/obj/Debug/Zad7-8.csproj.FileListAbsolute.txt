@@ -1,0 +1,6 @@
+C:\Users\mp49290\documents\visual studio 2015\Projects\DZ2\Zad7-8\bin\Debug\Zad7-8.exe.config
+C:\Users\mp49290\documents\visual studio 2015\Projects\DZ2\Zad7-8\bin\Debug\Zad7-8.exe
+C:\Users\mp49290\documents\visual studio 2015\Projects\DZ2\Zad7-8\bin\Debug\Zad7-8.pdb
+C:\Users\mp49290\documents\visual studio 2015\Projects\DZ2\Zad7-8\obj\Debug\Zad7-8.csprojResolveAssemblyReference.cache
+C:\Users\mp49290\documents\visual studio 2015\Projects\DZ2\Zad7-8\obj\Debug\Zad7-8.exe
+C:\Users\mp49290\documents\visual studio 2015\Projects\DZ2\Zad7-8\obj\Debug\Zad7-8.pdb

@@ -1,0 +1,5 @@
+c:\users\mp49290\documents\visual studio 2015\Projects\MatijaClassLibrary\MatijaClassLibrary\bin\Debug\MatijaClassLibrary.dll
+c:\users\mp49290\documents\visual studio 2015\Projects\MatijaClassLibrary\MatijaClassLibrary\bin\Debug\MatijaClassLibrary.pdb
+c:\users\mp49290\documents\visual studio 2015\Projects\MatijaClassLibrary\MatijaClassLibrary\obj\Debug\MatijaClassLibrary.csprojResolveAssemblyReference.cache
+c:\users\mp49290\documents\visual studio 2015\Projects\MatijaClassLibrary\MatijaClassLibrary\obj\Debug\MatijaClassLibrary.dll
+c:\users\mp49290\documents\visual studio 2015\Projects\MatijaClassLibrary\MatijaClassLibrary\obj\Debug\MatijaClassLibrary.pdb

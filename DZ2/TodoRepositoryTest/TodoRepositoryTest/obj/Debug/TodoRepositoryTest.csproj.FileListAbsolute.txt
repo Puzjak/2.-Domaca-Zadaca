@@ -1,0 +1,8 @@
+c:\users\mp49290\documents\visual studio 2015\Projects\TodoRepositoryTest\TodoRepositoryTest\obj\Debug\TodoRepositoryTest.csprojResolveAssemblyReference.cache
+c:\users\mp49290\documents\visual studio 2015\Projects\TodoRepositoryTest\TodoRepositoryTest\bin\Debug\TodoRepositoryTest.dll
+c:\users\mp49290\documents\visual studio 2015\Projects\TodoRepositoryTest\TodoRepositoryTest\bin\Debug\TodoRepositoryTest.pdb
+c:\users\mp49290\documents\visual studio 2015\Projects\TodoRepositoryTest\TodoRepositoryTest\bin\Debug\MatijaClassLibrary.dll
+c:\users\mp49290\documents\visual studio 2015\Projects\TodoRepositoryTest\TodoRepositoryTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\mp49290\documents\visual studio 2015\Projects\TodoRepositoryTest\TodoRepositoryTest\bin\Debug\MatijaClassLibrary.pdb
+c:\users\mp49290\documents\visual studio 2015\Projects\TodoRepositoryTest\TodoRepositoryTest\obj\Debug\TodoRepositoryTest.dll
+c:\users\mp49290\documents\visual studio 2015\Projects\TodoRepositoryTest\TodoRepositoryTest\obj\Debug\TodoRepositoryTest.pdb
